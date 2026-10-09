@@ -43,4 +43,22 @@ Pranjal Chakraborty, exBrockU
   * 2 antiquated touchscreens
   * Staff doing walk-throughs
   * Pranjal!
+
 ---
+# Challenges
+* Mapping device usage to patron count
+* Aruba API
+  * XML
+  * API Restricted by central IT
+* Data Storage
+  * LibInsight saga
+* Visualization
+
+---
+# System Design
+![width:900](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/diagram.png)
+
+---
+# Further Improvement
+* UI
+* More data sources
