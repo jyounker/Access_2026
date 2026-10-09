@@ -20,19 +20,13 @@ Pranjal Chakraborty, exBrockU
 * Main floor Library/Learning Commons
 
 ---
-# Occupancy Tracking
-* Commercial solutions
-  * Gate counts
-  * Hardware based (BT, lidar, etc)
-  * Infrastructure based
-  * Privacy concerns
----
-# @Brock
+# Occupancy tracking @Brock
 
+* Pre-2016: gate/head counts
 * 2016: Student idea
 * Aruba API
 * 2019-: Collecting Data
-* Library Use
+* Library Use 
 
 ---
 # 2024 reboot
@@ -42,6 +36,7 @@ Pranjal Chakraborty, exBrockU
   * Years of raw data (no PII)
   * 2 antiquated touchscreens
   * Staff doing walk-throughs
+  * Occuspace interest
   * Pranjal!
 
 ---
