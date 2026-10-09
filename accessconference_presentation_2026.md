@@ -57,3 +57,7 @@ Pranjal Chakraborty, exBrockU
 # Further Improvement
 * UI
 * More data sources
+
+---
+# Do It Yourself
+* https://github.com/brocku-library/wifi-occupancy-tracker
