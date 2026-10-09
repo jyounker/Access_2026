@@ -54,6 +54,14 @@ Pranjal Chakraborty, exBrockU
 ![width:900](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/diagram.png)
 
 ---
+# Patron Facing View
+![width:900](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/interface.png)
+
+---
+# Metabase Dashboard
+![width:900](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/metabase.png)
+
+---
 # Further Improvement
 * UI
 * More data sources
