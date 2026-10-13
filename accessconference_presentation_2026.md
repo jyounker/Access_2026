@@ -59,7 +59,7 @@ Pranjal Chakraborty, exBrockU
 
 ---
 # Metabase Dashboard
-![width:900](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/metabase.png)
+![width:1100](https://raw.githubusercontent.com/pranjalcborty/pranjalcborty.github.io/refs/heads/master/resources/images/metabase.png)
 
 ---
 # Further Improvement
@@ -69,3 +69,8 @@ Pranjal Chakraborty, exBrockU
 ---
 # Do It Yourself
 * https://github.com/brocku-library/wifi-occupancy-tracker
+
+---
+# Thanks!
+
+Presentation made in Markdown & Marp
